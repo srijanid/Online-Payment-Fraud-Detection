@@ -1,6 +1,3 @@
-Here’s a draft for your `README.md` file tailored to the project at the provided GitHub link:
-
----
 
 # Online Payment Fraud Detection
 
